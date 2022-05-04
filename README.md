@@ -1,6 +1,6 @@
 <div align="center">
 
-# Scribbles
+# Scribbles (with mysql2)
 
 </div>
 
@@ -13,19 +13,12 @@
 
 
 
-I wanted somewhere online to make quick, organised notes to refer too later or when I needed too remember some info but didn't have time that I could access anywhere with an internet connection, that is customized and customzeable. This helps reduce time with all the varying sources of note taking that requires a phone, local machine, or paper! (what's that?).
+This application is intended to server as an update to note taker using mysql2 CLI, developing a databasing system for the application. Watch this space for further development.
 
 ## Requirements
 
 This application is run completely in the browser. you may visit [https://scribbles-the--note-taker.herokuapp.com/]. However, see below to load application on your local machine using node.
 
-## Further Developments
-
-### Additional Features
-
-- 1. Later I will be adding a calendar, which will provide standard business hours. This information will be saved and rendered when previous dates are selected
-
-- 2. In addition, color coding, changing existing notes, mark as complete, base importance, and additional UI changes.
 
 ## Installation
 
@@ -63,7 +56,7 @@ Direct any questions too;
 
 ## Extras
 
-[Home Page](https://scribbles-the--note-taker.herokuapp.com/)
+[Home Page](https://scribbles-updated.herokuapp.com/)
 
 ![snippet](./images/home_screen.jpg)
 
