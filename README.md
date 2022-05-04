@@ -56,8 +56,6 @@ Direct any questions too;
 
 ## Extras
 
-[Home Page](https://scribbles-updated.herokuapp.com/)
-
 ![snippet](./images/home_screen.jpg)
 
 ![snippet](./images/notes_page.jpg)
